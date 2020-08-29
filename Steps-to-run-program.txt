@@ -1,0 +1,11 @@
+g++ game.cpp
+
+./a.out
+
+You have to select 4 players for each team by giving input as the serial number of 4 players 
+
+Game duration - 6 balls
+
+This program will automatically decides which team won toss and their choice.
+
+It will automatically complete two innings and display winner team name and match summary
